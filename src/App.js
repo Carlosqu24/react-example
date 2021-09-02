@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>This is an example app</h2>
+        <h2>Esta en una aplicación de ejemplo</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
